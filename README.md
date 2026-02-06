@@ -28,5 +28,7 @@ This project is a desktop-first recreation of the Cursor developer tool landing 
 - No JavaScript
 - No frameworks or libraries
 
-##Final Output
-![Homepage Screenshot](screenshots/homepage.png)
+## 📷 Final Output
+
+![Cursor Landing Page Clone](screencapture-127-0-0-1-5500-2026-02-06-19_31_40.png)
+
